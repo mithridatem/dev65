@@ -1,1 +1,4 @@
 let test;
+function test(){
+    
+}
